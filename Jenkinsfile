@@ -22,6 +22,10 @@ pipeline {
                 
             }
         }
+        stage('Khurram Khaoo'){
+            steps{
+                echo 'start eating'
+                echo 'End eating'
     }
 }
 
