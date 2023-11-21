@@ -5,8 +5,8 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'Starting the build stafe'
-                echo 'Successfull'
+                echo 'Starting the build stage'
+                echo 'Successful'
             }
         }
         stage('Test'){
